@@ -1,0 +1,6 @@
+framework module Pods_Manan_Rami_TrooTech {
+  umbrella header "Pods-Manan_Rami_TrooTech-umbrella.h"
+
+  export *
+  module * { export * }
+}
